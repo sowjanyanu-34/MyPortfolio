@@ -8,8 +8,8 @@ It is designed to provide a clean and interactive way for recruiters and visitor
 
 ## 🚀 Features
 
-* 👩‍💻 Personal introduction section
-* 🛠️ Skills & technologies showcase
+* Personal introduction section
+* Skills & technologies showcase
 * 📂 Projects with descriptions
 * 📞 Contact form / contact details
 * 🎨 Responsive and modern UI
