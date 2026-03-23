@@ -13,7 +13,7 @@ It is designed to provide a clean and interactive way for recruiters and visitor
 * Projects with descriptions
 * Contact form / contact details
 * Responsive and modern UI
-* ⚡ Fast and interactive performance
+* Fast and interactive performance
 
 ---
 
