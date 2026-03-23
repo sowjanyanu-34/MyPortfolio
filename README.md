@@ -10,7 +10,7 @@ It is designed to provide a clean and interactive way for recruiters and visitor
 
 * Personal introduction section
 * Skills & technologies showcase
-* 📂 Projects with descriptions
+* Projects with descriptions
 * 📞 Contact form / contact details
 * 🎨 Responsive and modern UI
 * ⚡ Fast and interactive performance
