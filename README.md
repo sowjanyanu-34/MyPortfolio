@@ -45,7 +45,7 @@ MyPortfolioApp/
 git clone https://github.com/sowjanyanu-34/MyPortfolio.git
 ```
 
-### 2️⃣ Navigate to the project folder
+### 2️.Navigate to the project folder
 
 ```bash id="9q3d6e"
 cd MyPortfolio
