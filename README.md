@@ -62,6 +62,8 @@ npm install
 ```bash id="7n5i07"
 npm start
 ```
+### Live Demo
+[Live Demo](https://resonant-bubblegum-dc088c.netlify.app/)
 
 ---
 ## 🚀 Future Improvements
