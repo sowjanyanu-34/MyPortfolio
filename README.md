@@ -39,7 +39,7 @@ MyPortfolioApp/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️.Clone the repository
 
 ```bash id="snt4y4"
 git clone https://github.com/sowjanyanu-34/MyPortfolio.git
