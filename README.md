@@ -64,12 +64,6 @@ npm start
 ```
 
 ---
-
-## 🌍 Live Demo
-
-https://pavidk-portfolio.netlify.app/
----
-
 ## 🚀 Future Improvements
 
 * 🌙 Dark mode support
