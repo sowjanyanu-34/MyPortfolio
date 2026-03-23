@@ -57,7 +57,7 @@ cd MyPortfolio
 npm install
 ```
 
-### 4️⃣ Run the application
+### 4️.Run the application
 
 ```bash id="7n5i07"
 npm start
