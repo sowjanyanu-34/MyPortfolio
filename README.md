@@ -51,7 +51,7 @@ git clone https://github.com/sowjanyanu-34/MyPortfolio.git
 cd MyPortfolio
 ```
 
-### 3️⃣ Install dependencies
+### 3️.Install dependencies
 
 ```bash id="7aqv2t"
 npm install
