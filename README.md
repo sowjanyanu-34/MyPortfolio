@@ -37,7 +37,7 @@ MyPortfolioApp/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️.Clone the repository
 
@@ -62,21 +62,20 @@ npm install
 ```bash id="7n5i07"
 npm start
 ```
-### Live Demo
+### Demo
 [Live Demo](https://resonant-bubblegum-dc088c.netlify.app/)
 
 ---
-## 🚀 Future Improvements
+##  Future Improvements
 
-* 🌙 Dark mode support
-* 🌐 Multi-language support
-* 📝 Blog section
-* 📊 Analytics integration
-* ✨ More animations and UI improvements
+*  Multi-language support
+*  Blog section
+*  Analytics integration
+*  More animations and UI improvements
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -87,18 +86,12 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👩‍💻 Author
+##  Author
 
 **Sowjanya N U**
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project, give it a ⭐ on GitHub!
