@@ -6,7 +6,7 @@ It is designed to provide a clean and interactive way for recruiters and visitor
 
 ---
 
-## 🚀 Features
+##  Features:
 
 * Personal introduction section
 * Skills & technologies showcase
@@ -17,7 +17,7 @@ It is designed to provide a clean and interactive way for recruiters and visitor
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack:
 
 * **Frontend:** React.js
 * **Styling:** CSS / Tailwind / Bootstrap
