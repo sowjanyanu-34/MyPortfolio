@@ -25,7 +25,7 @@ It is designed to provide a clean and interactive way for recruiters and visitor
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash id="2e9t2p"
 MyPortfolioApp/
