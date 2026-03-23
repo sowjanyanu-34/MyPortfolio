@@ -218,7 +218,7 @@ export default function ProjectsSection() {
             marginBottom: '3.5rem',
           }}
         >
-          Real-world problems I've tackled with code. {projects.length} projects and counting.
+          Real-world problems I've tackled with code. {projects.length} projects and counting..
         </p>
       </motion.div>
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))', gap: '1.5rem' }}>
