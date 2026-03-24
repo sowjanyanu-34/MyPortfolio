@@ -85,13 +85,6 @@ Contributions are welcome!
 4. Submit a Pull Request
 
 ---
-
-##  Author
-
-**Sowjanya N U**
-
----
-
 ##  Support
 
 If you like this project, give it a ⭐ on GitHub!
