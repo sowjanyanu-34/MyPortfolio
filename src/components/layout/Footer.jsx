@@ -51,7 +51,7 @@ export default function Footer() {
         You can find me on:
       </motion.h3>
 
-      {/* Social icon circles */}
+      {/* Social icon circle */}
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
