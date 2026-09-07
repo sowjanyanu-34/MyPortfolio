@@ -7,7 +7,7 @@ export const personal = {
   email: 'sowjanyanu34@gmail.com',
   github: 'https://github.com/sowjanyanu-34',
   linkedin: 'https://www.linkedin.com/in/sowjanya-n-u-78b5662a1',
-  resumeUrl: '/resume.pdf',
+  resumeUrl: '/Sowjanya CV.pdf',
   // ─── PHOTO ───────────────────────────────────────────────────
   // Place your photo inside the /public folder as "photo.jpg"
   // Then this path will work automatically:
